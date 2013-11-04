@@ -51,9 +51,36 @@ display: block;
     background-position:right top;
     background-size:contain;
     -moz-background-size:contain;
-    -webkit-background-size:contain;
     -o-background-size:contain;
     height:50px;
     width:150px;
     
+}
+
+
+
+
+/* testlab stuff*/
+
+.divLab{
+    height: 100px;
+    width: 100px;
+        display: inline-block;
+}
+#red {
+    background-color:#FF0000;
+    width: 800px;
+    
+}
+
+#blue {
+    background-color:#0000FF;
+}
+
+#yellow {
+    background-color:#E2BE22;
+}
+
+#green {
+    background-color:#008800;
 }
